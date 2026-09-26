@@ -13,34 +13,43 @@
 ---
 
 ## 🚀 About Me
-I am a passionate **Data Science and AI student** currently pursuing my Master of Computer Applications (MCA) in Data Analytics and Machine Learning at Centurion University. I specialize in building data-driven solutions, developing machine learning models, and solving complex algorithmic problems. 
+I am a passionate **Data Science and AI student** currently pursuing my Master of Computer Applications (MCA) in Data Analytics and Machine Learning at Centurion University. I hold a B.Sc. (Honors) in Zoology and am actively targeting roles in Data Analytics, Machine Learning, and Generative AI.
 
 Welcome to my **COMPETITIVE_CODING_PROBLEM_SOLVED** repository! This repository serves as a collection of my solutions to various GeeksforGeeks Data Structures and Algorithms (DSA) problems, organized by the level of difficulty. - Created using [GfG To GitHub](https://github.com/AtharvaNanavate/GfG-To-GitHub).
 
+## 🎓 Education
+- **Master of Computer Applications (MCA)** - Centurion University of Technology and Management (2025-2027) | *CGPA: 7.9/10*
+- **B.Sc. in Zoology (Honors)** - Kanpur Anchalika Degree Mahavidyalaya (2022-2025) | *CGPA: 7.48/10*
+
 ## 🛠️ Tech Stack & Core Skills
-- **Languages:** Python, SQL, C, Java
-- **Machine Learning & AI:** Scikit-Learn, Pandas, NumPy, Matplotlib, Streamlit
-- **Data Analytics & Visualization:** Tableau, Power BI, Advanced Excel (XLOOKUP, Pivot Tables)
-- **Tools & DevOps:** Git, GitHub, Docker, VS Code, Jupyter Notebook, Google Colab, Vercel
+- **Languages & Querying:** Python, SQL, MySQL, C, Java (Joins, CTEs, Window Functions)
+- **Machine Learning & AI:** scikit-learn, Pandas, NumPy, Matplotlib, Streamlit
+- **BI & Visualization:** Tableau, Power BI, Advanced Excel (XLOOKUP, Pivot Tables)
+- **DevOps & Tools:** Git, GitHub, Docker, VS Code, Google Colab, Jupyter Notebook
 
-## 💼 Experience & Key Projects
-- **Internships:** 
-  - Data Science Virtual Intern at Thiranex Education 
-  - Python Programming Intern at CodeAlpha
-- **Featured Projects:**
-  - **Customer Retention Engine:** Customer churn prediction model packaged in Docker and deployed via Streamlit.
-  - **AI-Based Fertilizer Optimization:** Agricultural input optimization utilizing Random Forest models.
-  - **Stock Price Prediction App:** Predictive modeling built with Linear Regression and Scikit-Learn.
-  - **Odisha Climate Change Dashboard:** Interactive environmental data analysis built in Tableau.
+## 💼 Experience
+- **Virtual Data Science Intern** @ Thiranex Education *(Apr 2026 - May 2026)*
+  - Engineered ML models achieving 85% accuracy and automated data preprocessing pipelines using Python and scikit-learn.
+- **Virtual Python Programming Intern** @ CodeAlpha *(Jun 2026 - Aug 2026)*
+  - Optimized data extraction workflows via robust automation scripts, saving 5 manual hours weekly and reducing runtime errors by 15%.
 
-## 📈 Competitive Coding Profile
-- **Focus Areas:** Data Structures, Algorithms, Problem Solving
-- **Platforms:** GeeksforGeeks, LeetCode, HackerRank (Java Basic Certified)
+## 🚀 Featured Projects
+- **AI-Based Fertilizer & Input Usage Optimization** | *Python, ML, Streamlit*
+  - Developed an AI-powered agricultural platform for crop recommendation, yield prediction, and soil analysis with an AI farming assistant.
+- **Stock Price Prediction** | *Python, scikit-learn, Linear Regression*
+  - Engineered a predictive model achieving an R² score of 0.92 by preprocessing 10,000+ rows of historical financial data, deployed via Streamlit.
+- **Customer Retention Engine** | *Machine Learning, Streamlit, Docker*
+  - Built a customer churn prediction pipeline for 7,000+ Telco records using classification models, packaged within Docker containers.
+- **Climate Change Dashboard** | *Tableau*
+  - Visualized trends across 15+ global environmental indicators, improving dashboard loading speed by 25%.
 
-<br/>
+## 🏆 Certifications
+- Generative AI, LLM & Cloud AI Deployments (Anthropic)
+- Full Stack Web Development with AI (Internshala)
+- Programming in Java, C, and DSA (GeeksforGeeks)
+- Python & SQL (HackerRank)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMBIT-318&show_icons=true&theme=tokyonight" alt="Sambit's GitHub Stats" />
-</p>
-<p align="center">
+  <br/>
   <i>"Transforming data into insights and logic into scalable solutions."</i>
 </p>
