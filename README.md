@@ -15,7 +15,7 @@
 ## 🚀 About Me
 I am a passionate **Data Science and AI student** currently pursuing my Master of Computer Applications (MCA) in Data Analytics and Machine Learning at Centurion University. I specialize in building data-driven solutions, developing machine learning models, and solving complex algorithmic problems. 
 
-Welcome to my **COMPETITIVE_CODING_PROBLEM_SOLVED** repository! This repo serves as a structured collection of my Data Structures and Algorithms (DSA) solutions across platforms like GeeksforGeeks and LeetCode, organized by difficulty level.
+Welcome to my **COMPETITIVE_CODING_PROBLEM_SOLVED** repository! This repository serves as a collection of my solutions to various GeeksforGeeks Data Structures and Algorithms (DSA) problems, organized by the level of difficulty. - Created using [GfG To GitHub](https://github.com/AtharvaNanavate/GfG-To-GitHub).
 
 ## 🛠️ Tech Stack & Core Skills
 - **Languages:** Python, SQL, C, Java
