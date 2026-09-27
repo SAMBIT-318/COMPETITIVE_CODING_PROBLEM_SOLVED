@@ -15,12 +15,8 @@ class Solution(object):
         
         total = 0
         prev_value = 0
-        
-        # Traverse the string from right to left
         for char in reversed(s):
             current_value = roman_map[char]
-            
-            # If current value is less than the previous one, subtract it
             if current_value < prev_value:
                 total -= current_value
             else:
