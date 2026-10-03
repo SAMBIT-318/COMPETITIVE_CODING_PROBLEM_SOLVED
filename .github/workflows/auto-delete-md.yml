@@ -1,0 +1,36 @@
+name: Auto-delete Unwanted MD Files
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'LeetCode/**.md' # Triggers only when .md files are pushed to the LeetCode folder
+
+permissions:
+  contents: write # Grants permission to the bot to push the deletion commit
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Delete specific .md files
+        run: |
+          # Deletes the specific files you mentioned
+          rm -f LeetCode/AUTHOR_ADSA.md LeetCode/AUTHOR_DSA.md LeetCode/GRIND_100.md
+          
+          # NOTE: If you just want to delete ALL .md files in that folder instead, 
+          # comment out the line above and uncomment the line below:
+          # find LeetCode -type f -name "*.md" -delete
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          # Commits only if files were actually deleted
+          git diff --staged --quiet || git commit -m "Auto-removed unwanted .md files"
+          git push
